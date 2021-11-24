@@ -1,10 +1,10 @@
 export default {
-  routerBase: '/echarts4/handbook',
-  rootPath: '/echarts4/handbook/',
-  exampleViewPath: '/echarts4/examples/${lang}/view.html?c=',
+  routerBase: '/echarts5/handbook',
+  rootPath: '/echarts5/handbook/',
+  exampleViewPath: '/echarts5/examples/${lang}/view.html?c=',
   exampleEditorPath:
-    '/echarts4/examples/${lang}/editor.html?c=',
-  mainSitePath: '/echarts4/',
-  optionPath: '/echarts4/option.html#',
+    '/echarts5/examples/${lang}/editor.html?c=',
+  mainSitePath: '/echarts5/',
+  optionPath: '/echarts5/option.html#',
   gitRepo: 'apache/echarts-handbook'
 }
