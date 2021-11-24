@@ -1,5 +1,5 @@
 export default {
-  routerBase: '/handbook',
+  routerBase: '/echarts4/handbook',
   rootPath: '/echarts4/handbook/',
   exampleViewPath: '/echarts4/examples/${lang}/view.html?c=',
   exampleEditorPath:
